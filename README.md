@@ -48,7 +48,13 @@ git clone https://github.com/sabarias1999/Amazon-Analytics.git
 cd Amazon-Analytics
 pip install -r requirements.txt
 ```
+## Dashboard
 
+[![Power BI Dashboard](https://img.shields.io/badge/Power_BI-View_Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://drive.google.com/file/d/1RzBVGWVSK68CR0FYODkcVbGkJTeFOG2h/view?usp=sharing)
+
+> Click the badge above to view the full interactive Power BI dashboard
+
+---
 ---
 
 ## Sample Insights
